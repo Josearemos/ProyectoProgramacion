@@ -1,8 +1,6 @@
-﻿**
 
 ## COMEBACK
 
-**
 José Antonio Reina Montes
 
 Este proyecto trata de un cajero en una tineda de videojuegos pero con más funcionalidades, tiene desde imprimir una factura como añadir juegos a la base de datos, la aplicación es muy intuitiva.
